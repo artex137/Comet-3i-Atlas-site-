@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Comet at Dawn",
+      "url": "articles/comet-dawn.html",
+      "date": "2024-04-23",
+      "image": "assets/img/comet-dawn-sky.jpg"
+    },
+    {
+      "title": "Close-Up of Nucleus",
+      "url": "articles/dusty-nucleus.html",
+      "date": "2024-04-20",
+      "image": "assets/img/dusty-nucleus-closeup.jpg"
+    },
+    {
+      "title": "Interaction with Magnetosphere",
+      "url": "articles/magnetosphere-interaction.html",
+      "date": "2024-04-18",
+      "image": "assets/img/magnetosphere-interaction.jpg"
+    }
+  ]
+}
